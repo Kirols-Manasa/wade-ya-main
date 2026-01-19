@@ -38,7 +38,7 @@ export default async function Home() {
         {/* Hero Section */}
         <section className="w-full py-20 px-6 text-center relative">
           <h1 className="text-6xl md:text-7xl font-extrabold tracking-tight mb-6">
-            مرحباً بـ <span className="text-indigo-500">رواد شرق تانك</span>
+            <span className="text-indigo-500">     </span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto mb-12">
             اكتشف قصص النجاح، واستلهم الأفكار، وابدأ رحلتك في ريادة الأعمال اليوم.
