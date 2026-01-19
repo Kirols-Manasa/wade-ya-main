@@ -119,7 +119,7 @@ export default async function Home() {
         {/* tRPC & Session */}
         <section className="w-full py-16 px-6 text-center">
           <p className="text-2xl text-gray-200 mb-4">
-            {hello ? hello.greeting : "جارٍ تحميل البيانات..."}
+            {hello ? hello.greeting : " "}
           </p>
           {session?.user && <LatestPost />}
         </section>
