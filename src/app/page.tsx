@@ -62,7 +62,7 @@ export default async function Home() {
         {/* Entrepreneurs Section */}
         <section id="entrepreneurs" className="w-full py-16 px-6 bg-gray-850">
           <h2 className="text-4xl font-bold text-center mb-12">
-            رواد الأعمال الملهمين
+          
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 max-w-6xl mx-auto">
             {entrepreneurs.map((e, idx) => (
