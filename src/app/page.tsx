@@ -41,7 +41,7 @@ export default async function Home() {
             <span className="text-indigo-500">     </span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto mb-12">
-            اكتشف قصص النجاح، واستلهم الأفكار، وابدأ رحلتك في ريادة الأعمال اليوم.
+            
           </p>
           <div className="flex justify-center gap-6 flex-wrap">
             <Link
